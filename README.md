@@ -1,4 +1,4 @@
-# MEVBOT-Sandwich-Trades
+# MEVBOT-Sandwich-Attacks
 
 Mempool settings for my MEV-bots on Uniswap v3 and BSC v1/2. Originally, I never intended to share the code with anyone as it was only meant for "testing in production" and I made several tradeoffs in terms of quality. I was afraid of "leaking my alpha". However, I want to showcase what I've learned over the years.
 
